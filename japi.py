@@ -40,3 +40,4 @@ def main():
         stock = input()
 
 main()
+print("Stock Quotes retrieved successfully!")
